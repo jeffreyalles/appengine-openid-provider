@@ -1,0 +1,1 @@
+based on http://openid-provider.appspot.com/ sources, ported to latest python-openid version (2.1.1). Now with identifier select (directed identity) support.
